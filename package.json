@@ -1,0 +1,102 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "compileIt",
+        "scope": null,
+        "escapedName": "compileIt",
+        "name": "compileIt",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/priya/Pictures/nodecompiledemo"
+    ]
+  ],
+  "_from": "compileIt@latest",
+  "_id": "compileIt@0.7.4",
+  "_inCache": true,
+  "_location": "/compileIt",
+  "_nodeVersion": "6.10.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/compileIt-0.7.4.tgz_1489837701669_0.45397754455916584"
+  },
+  "_npmUser": {
+    "name": "crackledsp",
+    "email": "crackledsp@gmail.com"
+  },
+  "_npmVersion": "0.1.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "compileIt",
+    "scope": null,
+    "escapedName": "compileIt",
+    "name": "compileIt",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/compileIt/-/compileIt-0.7.4.tgz",
+  "_shasum": "5cb487cad8432c029adcc5b1f29ec8697771180a",
+  "_shrinkwrap": null,
+  "_spec": "compileIt",
+  "_where": "/home/priya/Pictures/nodecompiledemo",
+  "author": {
+    "name": "K K PRIYANKA",
+    "email": "crackledsp@gmail.com",
+    "url": "https://twitter.com/crackledsp"
+  },
+  "bugs": {
+    "url": "https://github.com/crackledsp/compileIt/issues"
+  },
+  "dependencies": {
+    "colors": "~0.6.2",
+    "cuid": "~1.2.4"
+  },
+  "description": "compileIt is a node.js library which is used to build online code editor/compiler websites and webservices.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5cb487cad8432c029adcc5b1f29ec8697771180a",
+    "tarball": "https://registry.npmjs.org/compileIt/-/compileIt-0.7.4.tgz"
+  },
+  "gitHead": "afb74a011b9297087c5446720271bef837325784",
+  "homepage": "https://github.com/crackledsp/compileIt",
+  "keywords": [
+    "compiler",
+    "compileIt",
+    "c",
+    "c++",
+    "java",
+    "python",
+    "c#",
+    "vb",
+    "gcc",
+    "javac",
+    "csc",
+    "vbc"
+  ],
+  "license": "MIT",
+  "main": "compileIt.js",
+  "maintainers": [
+    {
+      "name": "crackledsp",
+      "email": "crackledsp@gmail.com"
+    }
+  ],
+  "name": "compileIt",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crackledsp/compileIt.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "0.7.4"
+}
